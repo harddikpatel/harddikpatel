@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**patelsaheb29/patelsaheb29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there  , Hardik here !👋
+    
+    
+ ### 🕵️‍♀️KNOW ME 
+      
+   DevOps & Cloud Engineer | Certified in AWS,Azure,CKA | Terraform | Ansible 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 I'm passionate about learning new skills and technologies to enhance my knowledge .  
+- 🌱 I’m on trake for learning ansible, terraform, python scripting, pandas with reporting tool.
+- 💬 For reaching me out mail me here [patelsaheb29@gmail.com](mailto:patelsaheb29@gmail.com?)
+- ⚡ Looking for a internship in web development\ flutter development. 
+
+ 
+ 
+ 
+ ### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+ 
+  <a href="https://linkedin.com/in/patelsaheb29"><img src="https://img.shields.io/badge/-Nency%20Patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
+
