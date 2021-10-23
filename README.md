@@ -19,6 +19,6 @@
 
 <p align="center">
  
-  <a href="https://linkedin.com/in/patelsaheb29"><img src="https://img.shields.io/badge/-Nency%20Patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/patelsaheb29"></a>
 </p>
 
