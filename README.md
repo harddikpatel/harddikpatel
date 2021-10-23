@@ -14,9 +14,7 @@
 - 📫 How to reach me **patelsaheb29@gmail.com**
 - 📝 I write articles on [patelsaheb.medium.com](patelsaheb.medium.com)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
