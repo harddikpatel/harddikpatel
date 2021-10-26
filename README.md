@@ -34,6 +34,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelsaheb29&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patelsaheb29&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
