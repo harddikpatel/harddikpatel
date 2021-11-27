@@ -11,7 +11,7 @@
 - 💡 I'm passionate about learning new skills and technologies to enhance my knowledge .  
 - 🌱 I’m on trake for learning ansible, terraform, python scripting, pandas with reporting tool.
 - 💬 Ask me about **aws cloud, jenkins,kubernetes,ansible**
-- 📫 How to reach me **harrypatel1902@outlook.com**
+- 📫 How to reach me **patelsaheb29@gmail.com**
 - 📝 I write articles on [patelsaheb.medium.com](patelsaheb.medium.com)
 
 
