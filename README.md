@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Hardik Patel</h1>
-<h3 align="center">Devops & Cloud Infrastructure Engineer,India</h3>
+<h3 align="center">Architect & Devops,Ahmedabad,India</h3>
     
     
  ### 🕵️‍♀️KNOW ME 
