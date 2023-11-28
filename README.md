@@ -9,8 +9,8 @@
    DevOps & Cloud Engineer | Certified in AWS,Azure,CKA,OracleCloud Foundation | CICD(Jenkins,GitLab.BitBucket) | Terraform | Ansible 👩‍💻
 
 - 💡 I'm passionate about learning new skills and technologies to enhance my knowledge .  
-- 🌱 I’m on trake for learning ansible, terraform, python scripting, pandas with reporting tool.
-- 💬 Ask me about **aws cloud, jenkins,kubernetes,ansible,terraform**
+- 🌱 I’m on trake for learning ansible, Gitops, python scripting, pandas with reporting tool.
+- 💬 Ask me about **aws cloud, jenkins,kubernetes,ansible,terraform,google cloud**
 
 
 
