@@ -9,7 +9,7 @@
 🔁 Passionate about **automation**, **infrastructure as code**, **GitOps**, and **MLOps**  
 🧠 Exploring the intersection of **AI**, **Observability**, and **Platform Engineering**
 
-- 🌱 Currently exploring: `Langfuse` · `GitOps` · `MLFlow` · `Langfuse`
+- 🌱 Currently exploring: `Langfuse` · `GitOps` · `MLFlow` · `HuggingFace`
 - 💬 Ask me about: `AWS`, `GitLab CI`, `Kubernetes`, `Terraform`, `MLOps`, `Observability`
 - 🔗 Sharing insights on DevOps, Cloud, and AI infra
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 🔬 MLOps Stack (2025)
+## 🔬 MLOps Stack
 
 ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 Monitoring & Observability (2025 Trends)
+## 📊 Monitoring & Observability
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
