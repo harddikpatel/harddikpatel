@@ -38,23 +38,6 @@
 
 ---
 
-## 🔬 MLOps Stack
-
-![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white)
-![Argo Workflows](https://img.shields.io/badge/Argo_Workflows-FC5D4D?style=for-the-badge&logo=argo&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-101010?style=for-the-badge&logo=logstash&logoColor=white)
-![WhyLogs](https://img.shields.io/badge/WhyLogs-3C3C3C?style=for-the-badge&logo=whylogs&logoColor=white)
-![Evidently AI](https://img.shields.io/badge/Evidently_AI-000000?style=for-the-badge&logo=ai&logoColor=white)
-![Fiddler AI](https://img.shields.io/badge/Fiddler_AI-00172B?style=for-the-badge&logo=data&logoColor=white)
-![Arize AI](https://img.shields.io/badge/Arize_AI-4440F6?style=for-the-badge&logo=ai&logoColor=white)
-![Superwise](https://img.shields.io/badge/Superwise.ai-080F0F?style=for-the-badge&logo=superuser&logoColor=white)
-
-> 📈 **AI Monitoring**: Full-lifecycle ML observability with **WhyLogs**, **Langfuse**, **Fiddler**, **Arize**, and **Evidently AI** for drift detection, data integrity, and pipeline health.
-
----
-
 ## 📊 Monitoring & Observability
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -66,6 +49,51 @@
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B42F6?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 > 🔍 **Modern Observability**: Unified metrics, logs, traces, and model telemetry via **Grafana stack**, **OpenTelemetry**, and native cloud tooling.
+---
+
+---
+
+## ✅ Open-Source AI Observability Landscape
+
+A comparison of top open-source tools for production-grade ML observability and explainability:
+
+| Tool                                           | Observability       | Monitoring | Drift Detection        | Explainability              | Deployment        |
+| ---------------------------------------------- | ------------------- | ---------- | ---------------------- | --------------------------- | ----------------- |
+| **KServe + Alibi**                             | ✅ Inference metrics | ✅ Basic   | ✅ (Drift detector)     | ✅ (SHAP, counterfactuals)   | ✅ K8s native      |
+| **WhyLogs OSS**                                | ✅ Yes               | ✅ Yes     | ✅ Yes                  | ❌                           | ✅ VM/K8s          |
+| **Seldon Core + Alibi Detect + Alibi Explain** | ✅ Full-stack        | ✅ Advanced| ✅ Yes                  | ✅ Yes                       | ✅ K8s native      |
+
+> 📚 **Sources** (validated):
+> - [WhyLogs GitHub](https://github.com/whylabs/whylogs)
+> - [Seldon Core Docs](https://docs.seldon.io/)
+> - [Alibi Explain/Detect](https://docs.seldon.io/projects/alibi/)
+> - [KServe GitHub](https://github.com/kserve/kserve)
+
+---
+
+## 🔍 Feature-to-Tool Mapping for AI Observability
+
+| Feature                      | Recommended Tools                                      |
+|-----------------------------|--------------------------------------------------------|
+| 📝 Input/Output Logging      | MLflow / WhyLogs / Alibi Detect / Seldon Core          |
+| 📉 Data Drift Detection      | WhyLogs / Alibi Detect / Seldon Core                   |
+| 📊 Model Performance Metrics | MLflow / Seldon Core                                   |
+| 🧠 Explainability (XAI)      | Alibi Explain / Seldon Core                            |
+| 🚀 Real-Time Monitoring      | WhyLogs / Alibi Detect / Seldon Core                   |
+| 🚨 Alerting & Integration    | WhyLogs (via Prometheus) / Alibi Detect / Seldon Core  |
+
+---
+
+## 🛠️ Tool Legend
+
+| Tool          | Purpose                                                  |
+|---------------|----------------------------------------------------------|
+| **MLflow**    | Model tracking, artifact management, I/O logging         |
+| **WhyLogs**   | Data profiling, drift detection, metrics, alerting       |
+| **Alibi Detect** | Drift, outlier, adversarial input detection          |
+| **Alibi Explain** | Model explainability (SHAP, anchors, counterfactuals)|
+| **Seldon Core** | Inference serving, metrics, explainability integrations|
+
 
 ---
 
