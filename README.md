@@ -110,8 +110,8 @@ A comparison of top open-source tools for production-grade ML observability and 
 ## 🌟 Currently Interested In
 
 - 🔁 Scaling **GitOps + Terraform** workflows in production
-- 🤖 LLM & AI system monitoring with **Langfuse** and **WhyLogs**
-- 📈 Advanced observability pipelines using **Loki**, **OpenTelemetry**
+- 🤖 LLM & AI system monitoring 
+- 📈 Advanced observability pipelines 
 - ☁️ Multi-cloud architecture design (AWS | Azure | GCP)
 
 ---
